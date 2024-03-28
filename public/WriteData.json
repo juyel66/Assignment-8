@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "William Shakespeare",
+      "img": "https://i.ibb.co/0m1ML86/images-8.jpg",
+      "date_of_birth": "1564-04-23",
+      "books": ["Romeo and Juliet", "Hamlet", "Macbeth"]
+    },
+    {
+      "id": 2,
+      "name": "Leo Tolstoy",
+      "img": "https://i.ibb.co/L94C9sX/licensed-image.jpg",
+      "date_of_birth": "1828-09-09",
+      "books": ["War and Peace", "Anna Karenina", "The Death of Ivan Ilyich"]
+    },
+    {
+      "id": 3,
+      "name": "Jane Austen",
+      "img": "https://i.ibb.co/pxtDKsc/images-7.jpg",
+      "date_of_birth": "1775-12-16",
+      "books": ["Pride and Prejudice", "Sense and Sensibility", "Emma"]
+    },
+    {
+      "id": 4,
+      "name": "Charles Dickens",
+      "img": "https://i.ibb.co/4PdkBCh/Fyodor-Dostoyevsky-1876.webp",
+      "date_of_birth": "1812-02-07",
+      "books": ["A Tale of Two Cities", "Great Expectations", "Oliver Twist"]
+    },
+    {
+      "id": 5,
+      "name": "Fyodor Dostoevsky",
+      "img": "https://i.ibb.co/RYd6TL1/images-6.jpg",
+      "date_of_birth": "1821-11-11",
+      "books": ["Crime and Punishment", "The Brothers Karamazov", "Notes from Underground"]
+    },
+    {
+      "id": 6,
+      "name": "Mark Twain",
+      "img": "https://i.ibb.co/94zRLms/Mark-Twain-1907.webp",
+      "date_of_birth": "1835-11-30",
+      "books": ["Adventures of Huckleberry Finn", "The Adventures of Tom Sawyer", "The Prince and the Pauper"]
+    },
+    {
+      "id": 7,
+      "name": "Gabriel García Márquez",
+      "img": "https://i.ibb.co/ZTbbqjx/images-5.jpg",
+      "date_of_birth": "1927-03-06",
+      "books": ["One Hundred Years of Solitude", "Love in the Time of Cholera", "Chronicle of a Death Foretold"]
+    },
+    {
+      "id": 8,
+      "name": "Virginia Woolf",
+      "img": "https://i.ibb.co/fXS1Gwz/Virginia-Woolf.webp",
+      "date_of_birth": "1882-01-25",
+      "books": ["Mrs. Dalloway", "To the Lighthouse", "Orlando"]
+    },
+    {
+      "id": 9,
+      "name": "J.R.R. Tolkien",
+      "img": "https://i.ibb.co/H28gtC9/images-4.jpg",
+      "date_of_birth": "1892-01-03",
+      "books": ["The Lord of the Rings", "The Hobbit", "The Silmarillion"]
+    },
+    {
+      "id": 10,
+      "name": "Haruki Murakami",
+      "img": "https://i.ibb.co/dLLxzJh/images-3.jpg",
+      "date_of_birth": "1949-01-12",
+      "books": ["Norwegian Wood", "Kafka on the Shore", "1Q84"]
+    }
+  ]
+  
